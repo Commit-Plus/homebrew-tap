@@ -1,6 +1,6 @@
 cask "commit-plus" do
-  version "1.1.25"
-  sha256 "759eefc25356c205608f37121059e7810872f578eee650744fa6f32aaf40569b"
+  version "1.1.26"
+  sha256 "e345ffdb5867c70dcef202b41bd7d3c589b89cf76dde7704457f31459bfd6bb2"
 
   url "https://github.com/Commit-Plus/commit-plus/releases/download/v#{version}/Commit+-#{version}-arm64.dmg"
   name "Commit+"
